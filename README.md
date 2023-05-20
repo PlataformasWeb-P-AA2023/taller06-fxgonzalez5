@@ -32,6 +32,6 @@ Considerandos:
 	* Presentar todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito".
 
 * Presentar capturas de pantalla de la base de datos en sqlite y postegres
-
+P
 ### Importante
 * Se sugiere realizar un script por cada tarea: crear entidad; guardar información y consultar información
